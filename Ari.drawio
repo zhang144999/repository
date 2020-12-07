@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T10:38:07.125Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="cHeRWxVyDpRsekeVB25Z" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T10:43:20.468Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="zQtQ2ToV6Q-1qh9KlRVG" version="13.10.9" type="github">
   <diagram id="GzK0z3Ax3Vn6kxYni37R" name="Page-1">
     <mxGraphModel dx="1240" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -596,6 +596,12 @@
         </mxCell>
         <mxCell id="jb1K5Bx4n4SNYEQkW07A-140" value="Wordle" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1100" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jb1K5Bx4n4SNYEQkW07A-145" value="X" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="60" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jb1K5Bx4n4SNYEQkW07A-146" value="Methodological framework adopted" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="190" y="675" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
